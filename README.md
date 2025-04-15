@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi there, I'm Arsen!
 
-<!--
-**arsen030503/arsen030503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Suranov Arsen**, a 3rd year Computer Science student at **Ala-Too International University** in **Bishkek** 🇰🇬.  
+I'm passionate about **Java development** and constantly learning new technologies to grow as a backend developer.
 
-Here are some ideas to get you started:
+### 🧠 Currently Learning
+- Java (Spring Boot, Hibernate)
+- Object-Oriented Design & Clean Architecture
+- Building REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- Java, JavaFX
+- SQL / PostgreSQL
+- Git, GitHub
+- (More tools you use...)
+
+### 🚀 Goals for 2025
+- Land an internship or junior developer role in Java backend development
+- Build and deploy real-world Java projects
+- Contribute to open source
+
+
+Feel free to reach out or check out my projects below!  
+Let’s connect and build something cool 🚀
